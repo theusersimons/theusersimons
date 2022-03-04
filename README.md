@@ -1,14 +1,6 @@
-<h1 align="center">Hi 👋, I'm Denis Lysenko</h1>
-<h3 align="center">A passionate Node.js backend developer from Ukraine</h3>
+## Hello 👋
 
-- 🔭 I’m currently working on **Aridle & JolyBell**
-
-- 🌱 I’m currently using **RAGE MP**
-
-- 👨‍💻 All of my projects are available at [https://gitlab.com/theusersimons](https://gitlab.com/theusersimons)
-
-- 💬 Ask me about **JavaScript, TypeScript, Node.JS and PHP (unwanted)**
-
-- 📫 How to reach me **theusersimons@gmail.com**
-
-- ⚡ Fun fact **Just a cool guy**
+- 🔭 I am a backend engineer. I mainly work on private projects and try to contribute to the open source community. My main specialization is web development (Node.JS, TypeScript). I am also interested in everything related to the server side (Linux, Docker, K8S, etc). Recently, make time for the platform RAGE MP.
+- 💫 The creator of [Aridle](https://vk.com/aridle), [JolyBell](https://jolybell.com).
+- 🍁 I’m looking to collaborate on any exciting opensource (and also private, hehe) projects!
+- 📫 You can reach me by writing an email to [theusersimons@gmail.com](mailto:theusersimons@gmail.com)
