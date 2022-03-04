@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Denis Lysenko</h1>
+<h3 align="center">A passionate Node.js backend developer from Ukraine</h3>
 
-<!--
-**theusersimons/theusersimons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Aridle & JolyBell**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently using **RAGE MP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://gitlab.com/theusersimons](https://gitlab.com/theusersimons)
+
+- 💬 Ask me about **JavaScript, TypeScript, Node.JS and PHP (unwanted)**
+
+- 📫 How to reach me **theusersimons@gmail.com**
+
+- ⚡ Fun fact **Just a cool guy**
